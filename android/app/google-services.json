@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1031407060637",
+    "project_id": "vikstagram-d7cab",
+    "storage_bucket": "vikstagram-d7cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031407060637:android:52823c8c9c782b5db6b674",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031407060637-eq2ftm6vngp18avqleqsg8iclahiro2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYIkSqWNSQ-Z9DEd_zdtQKBliE-jJ63Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031407060637-eq2ftm6vngp18avqleqsg8iclahiro2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031407060637-r2nrsn57i9585spk3ete0jelfr7pl6n3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
